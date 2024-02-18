@@ -1,0 +1,8 @@
+{
+  "name": "PINNs",
+  "image": "pinns_image",
+  "forwardPorts": [8080],
+  "settings": { 
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}

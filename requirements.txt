@@ -1,0 +1,8 @@
+deepxde
+ipykernel
+matplotlib
+nbformat
+numpy
+plotly
+scikit-learn
+tensorflow_probability
